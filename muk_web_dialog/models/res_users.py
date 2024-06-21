@@ -31,6 +31,6 @@ class ResUsers(models.Model):
             ('maximize', 'Maximize'),
         ], 
         string="Dialog Size",
-        default='minimize',
+        default='maximize',
         required=True,
     )

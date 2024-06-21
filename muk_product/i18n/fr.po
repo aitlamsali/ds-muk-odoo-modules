@@ -1,0 +1,228 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* muk_product
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-21 19:39+0000\n"
+"PO-Revision-Date: 2024-06-21 20:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.4.3\n"
+
+#. module: muk_product
+#: model:ir.model.fields,field_description:muk_product.field_muk_product_product_search__action_id
+msgid "Action"
+msgstr "Action"
+
+#. module: muk_product
+#: model:ir.model.fields.selection,name:muk_product.selection__muk_product_product_search__search_field__product_variant_ids_barcode
+msgid "Barcode"
+msgstr "Code Barre"
+
+#. module: muk_product
+#: model_terms:ir.ui.view,arch_db:muk_product.view_product_search_form
+msgid "Cancel"
+msgstr "Annuler"
+
+#. module: muk_product
+#: model:ir.model.fields.selection,name:muk_product.selection__muk_product_product_search__value_split_operator__,
+msgid "Comma"
+msgstr "Virgule"
+
+#. module: muk_product
+#: model:ir.ui.menu,name:muk_product.menu_configuration
+msgid "Configuration"
+msgstr "Configuration"
+
+#. module: muk_product
+#: model:ir.model.fields.selection,name:muk_product.selection__muk_product_product_search__search_operator__ilike
+msgid "Contains"
+msgstr "Contient"
+
+#. module: muk_product
+#: model:ir.model.fields,field_description:muk_product.field_muk_product_product_search__create_uid
+msgid "Created by"
+msgstr "Créé par"
+
+#. module: muk_product
+#: model:ir.model.fields,field_description:muk_product.field_muk_product_product_search__create_date
+#, fuzzy
+msgid "Created on"
+msgstr "Créé le"
+
+#. module: muk_product
+#: model:ir.model.fields,field_description:muk_product.field_muk_product_product_search__display_name
+#, fuzzy
+msgid "Display Name"
+msgstr "Nom affiché"
+
+#. module: muk_product
+#: model:ir.model.fields,field_description:muk_product.field_muk_product_product_search__search_domain
+#: model_terms:ir.ui.view,arch_db:muk_product.view_product_search_form
+msgid "Domain"
+msgstr "Domaine"
+
+#. module: muk_product
+#: model:ir.model.fields.selection,name:muk_product.selection__muk_product_product_search__value_split_operator__
+msgid "Enter"
+msgstr "Entrer"
+
+#. module: muk_product
+#: model:ir.model.fields,field_description:muk_product.field_muk_product_product_search__search_field
+msgid "Field"
+msgstr "Champ"
+
+#. module: muk_product
+#: model:ir.model.fields,field_description:muk_product.field_muk_product_product_search__id
+#, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#. module: muk_product
+#: model:ir.model.fields.selection,name:muk_product.selection__muk_product_product_search__search_field__product_variant_ids_default_code
+msgid "Internal Reference"
+msgstr "Référence interne"
+
+#. module: muk_product
+#: model:ir.model.fields,field_description:muk_product.field_muk_product_product_search__write_uid
+msgid "Last Updated by"
+msgstr "Dernière mise à jour par"
+
+#. module: muk_product
+#: model:ir.model.fields,field_description:muk_product.field_muk_product_product_search__write_date
+msgid "Last Updated on"
+msgstr "Dernière mise à jour le"
+
+#. module: muk_product
+#: model:ir.ui.menu,name:muk_product.menu_configuration_logistics
+msgid "Logistics"
+msgstr "Logistique"
+
+#. module: muk_product
+#: model:ir.model.fields.selection,name:muk_product.selection__muk_product_product_search__search_operator__=
+msgid "Match"
+msgstr "Correspondance"
+
+#. module: muk_product
+#: model:ir.model.fields,field_description:muk_product.field_muk_product_product_search__product_preview_ids
+#: model_terms:ir.ui.view,arch_db:muk_product.view_product_search_form
+msgid "Preview"
+msgstr "Aperçu"
+
+#. module: muk_product
+#: model:ir.ui.menu,name:muk_product.menu_pricelists
+msgid "Pricelists"
+msgstr "Listes de prix"
+
+#. module: muk_product
+#: model:ir.ui.menu,name:muk_product.menu_product_attribute
+msgid "Product Attributes"
+msgstr "Attributs du produit"
+
+#. module: muk_product
+#: model:ir.ui.menu,name:muk_product.menu_product_category
+msgid "Product Categories"
+msgstr "Catégories de produits"
+
+#. module: muk_product
+#: model:ir.model.fields.selection,name:muk_product.selection__muk_product_product_search__search_field__name
+#, fuzzy
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#. module: muk_product
+#: model:ir.ui.menu,name:muk_product.menu_product_packaging
+msgid "Product Packagings"
+msgstr "Product Packagings"
+
+#. module: muk_product
+#: model:ir.model,name:muk_product.model_muk_product_product_search
+msgid "Product Search"
+msgstr "Recherche produit"
+
+#. module: muk_product
+#: model:ir.ui.menu,name:muk_product.menu_product_tag
+msgid "Product Tags"
+msgstr "Étiquettes produits"
+
+#. module: muk_product
+#: model:ir.ui.menu,name:muk_product.menu_configuration_product
+#: model:ir.ui.menu,name:muk_product.menu_main
+#: model:ir.ui.menu,name:muk_product.menu_product_template
+#, fuzzy
+msgid "Products"
+msgstr "Articles"
+
+#. module: muk_product
+#: model:ir.actions.act_window,name:muk_product.action_product_search
+msgid "Products Search"
+msgstr "Houzez Recherches"
+
+#. module: muk_product
+#: model:ir.ui.menu,name:muk_product.menu_product_pricelist
+msgid "Sales Pricelists"
+msgstr "Liste de Prix Client"
+
+#. module: muk_product
+#. odoo-javascript
+#: code:addons/muk_product/static/src/views/kanban/product_kanban_view.xml:0
+#: code:addons/muk_product/static/src/views/list/product_list_view.xml:0
+#: model:ir.model.fields,field_description:muk_product.field_muk_product_product_search__search_value
+#: model_terms:ir.ui.view,arch_db:muk_product.view_product_search_form
+#, python-format
+msgid "Search"
+msgstr "Rechercher"
+
+#. module: muk_product
+#: model:ir.model.fields,field_description:muk_product.field_muk_product_product_search__search_operator
+msgid "Search with"
+msgstr "Cherché Par"
+
+#. module: muk_product
+#: model:ir.model.fields.selection,name:muk_product.selection__muk_product_product_search__value_split_operator__;
+msgid "Semicolon"
+msgstr "Point-virgule"
+
+#. module: muk_product
+#: model:ir.ui.menu,name:muk_product.menu_configuration_settings
+#, fuzzy
+msgid "Settings"
+msgstr "Configuration"
+
+#. module: muk_product
+#: model:ir.model.fields.selection,name:muk_product.selection__muk_product_product_search__value_split_operator___
+msgid "Space"
+msgstr "Espace"
+
+#. module: muk_product
+#: model:ir.model.fields,field_description:muk_product.field_muk_product_product_search__value_split_operator
+msgid "Split by"
+msgstr "Divisé Par"
+
+#. module: muk_product
+#: model:ir.model.fields.selection,name:muk_product.selection__muk_product_product_search__value_split_operator__
+msgid "Tab"
+msgstr "Onglet"
+
+#. module: muk_product
+#: model:ir.ui.menu,name:muk_product.menu_uom_category
+msgid "Units of Measure"
+msgstr "Unité de mesure"
+
+#. module: muk_product
+#: model:ir.ui.menu,name:muk_product.menu_product_product
+msgid "Variants"
+msgstr "Variantes"
+
+#. module: muk_product
+#: model:ir.ui.menu,name:muk_product.menu_product_supplierinfo
+msgid "Vendor Pricelists"
+msgstr "Liste de Prix Fournisseur"
